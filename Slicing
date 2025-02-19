@@ -1,0 +1,81 @@
+1.
+Slice the word until first "a". (Tosc)
+wrd="Toscana"
+#Type your answer here.
+
+ans_1=
+
+
+print(ans_1)
+
+2.
+Slice the word so that you get "cana".
+wrd="Toscana"
+#Type your answer here.
+
+ans_1=
+
+
+print(ans_1)
+
+3.
+Now try to get "can" only.
+wrd="Toscana"
+#Type your answer here.
+
+ans_1=
+
+
+print(ans_1)
+
+4.
+Can you slice the word from beginning to the end with steps of 2 (including the last character.)?
+wrd="Toscana"
+# Type your answer here.
+
+ans_1=
+
+print (ans_1)
+
+5.
+Now slice the word with steps of 2, excluding first and last characters.
+wrd="Toscana"
+# Type your answer here.
+
+ans_1=
+
+print(ans_1)
+
+
+6.
+Can you slice the list so that it's reversed without using the .reverse() method?
+lst=[0,1,2,3,4]
+# Type your answer here.
+
+ans_1
+
+
+
+print(ans_1)
+
+7.
+Slice the list so that only last 2 elements are included.
+lst=[0,1,2,3,4]
+# Type your answer here.
+
+ans_1=
+
+
+
+print(ans_1)
+
+8.
+Slice the second and third elements (50 and 20) in the list.
+lst=[40,50,20,30,90]
+# Type your answer here.
+
+ans_1=
+
+
+
+print(ans_1)

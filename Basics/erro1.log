@@ -1,0 +1,2 @@
+ERROR:root:Enter valid number invalid literal for int() with base 10: 'a'
+ERROR:root:Enter valid number. Number can't be zero
